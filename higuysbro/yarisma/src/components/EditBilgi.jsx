@@ -26,7 +26,7 @@ const EditBilgi = ({editItem,setEditItem,putBilgiler}) => {
           <div className="modal-body">
             <div className="mb-3">
               <label htmlFor="title" className="form-label">
-                Title
+                İSİM
               </label>
               <input
                 type="text"
@@ -41,7 +41,7 @@ const EditBilgi = ({editItem,setEditItem,putBilgiler}) => {
             </div>
             <div className="mb-3">
               <label htmlFor="desc" className="form-label">
-                Description
+                CEVAP
               </label>
               <input
                 type="text"

@@ -14,8 +14,8 @@ const [editItem,setEditItem]=useState("")
         <thead>
           <tr>
             <th scope="col">#id</th>
-            <th scope="col">Title</th>
-            <th scope="col">Description</th>
+            <th scope="col">İSİM</th>
+            <th scope="col">CEVAP</th>
             <th scope="col" className="text-center">
               Edit
             </th>
